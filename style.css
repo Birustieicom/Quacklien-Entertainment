@@ -1,2 +1,7 @@
-body{background-color:lightgreen;}
-section#coluna_esquerda{width:600px;height:auto;}
+body {
+  background-color:lightgreen;
+}
+section#coluna_esquerda {
+  width:600px;height:auto;
+}
+
