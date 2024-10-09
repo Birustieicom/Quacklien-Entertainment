@@ -4,4 +4,8 @@ body {
 section#coluna_esquerda {
   width:600px;height:auto;
 }
+img#banner {
+  width: 100.5px;
+  height: 300px;
+}
 
