@@ -7,7 +7,7 @@ section#coluna_esquerda {
 }
 
 #houssein {
-  background-color: rgba(25, 255, 0, 0.5);
+  background-color: rgba(25, 255, 0, 0.2);
   width: auto;
   height: auto;
   border-radius: 20px;
@@ -15,5 +15,5 @@ section#coluna_esquerda {
 }
 
 #housseinicon {
-  border-radius: 20px;
+  border-radius: 50px;
 }
