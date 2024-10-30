@@ -45,3 +45,9 @@ section#coluna_esquerda {
 #joaopicon {
   border-radius: 70px;
 }
+
+#funcionarios {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
