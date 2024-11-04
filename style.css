@@ -46,6 +46,26 @@ section#coluna_esquerda {
   border-radius: 70px;
 }
 
+#nicolas {
+  background-color: rgb(133, 242, 121);
+  width: 200px;
+  height: auto;
+  border-radius: 20px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#nicolasicon {
+  border-radius: 70px;
+}
+
 #funcionarios {
   display: flex;
   flex-direction: row;
